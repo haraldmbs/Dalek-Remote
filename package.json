@@ -1,0 +1,22 @@
+{
+  "name": "dalek-remote",
+  "version": "0.0.1",
+  "description": "Dalek Remote for Dalek MainComputer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haraldmbs/Dalek-Remote.git"
+  },
+  "keywords": [
+    "Dalek"
+  ],
+  "author": "Haraldmbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haraldmbs/Dalek-Remote/issues"
+  },
+  "homepage": "https://github.com/haraldmbs/Dalek-Remote#readme"
+}
